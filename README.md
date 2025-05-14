@@ -1,7 +1,9 @@
 ## Hey there! 
 My names Allan, Im 29 and currently working towards breaking into the field of Infoirmation Security and Data Analysis. 
+
 In my spare time i enjoy being in solitude, often either reading, exercising, or cafe hopping. 
 i enjoy topics such as Philosophy, Psychology, and things of existential depth. 
+
 A few fun facts about me is that im left handed and an INTP-P
 <!--
 **Allan726b/Allan726b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
